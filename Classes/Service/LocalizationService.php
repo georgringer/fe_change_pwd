@@ -19,7 +19,7 @@ use TYPO3\CMS\Extbase\Utility\LocalizationUtility;
 class LocalizationService
 {
     /**
-     * Translates the given key with the given argumens
+     * Translates the given key with the given arguments
      *
      * @param string $key
      * @param array $arguments
